@@ -9,7 +9,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 public class DynamicGoogleSearch {
 	
 	static WebDriver driver;
-
+//@authorname=Pratham
 	public static void main(String[] args) {
 		
 		System.setProperty("webdriver.chrome.driver", "E:\\Drivers\\chromedriver.exe");
